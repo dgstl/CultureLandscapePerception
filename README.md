@@ -5,7 +5,7 @@ This repository provides the source code implementation associated with the manu
 
 ### Project Structure and File Descriptions
 
-0. **`pd_valid_sample_sets.csv`**: A filtered dataset of valid street view images from various regions.
+0. **`pd_valid_sample_sets.csv`**: A filtered dataset of valid street view images from various regions. The valid samples filter is implemented by scores.py.
 1. **`DeepLabV3Plus-Pytorch`**: Implementation of the semantic segmentation model for street view images. The `svi_seg.py` script utilizes the DeepLabV3Plus model, pre-trained on the Cityscapes dataset, to perform semantic segmentation of 19 urban landscape object classes.
 2. **`Pytorch-Mask-RCNN`**: Implementation of the instance segmentation model for street view images. The `instance_seg.py` script is based on the Mask-RCNN architecture and enables counting of vehicles and pedestrians within street view images.
 3. **`index_calcu.py`**: Script for computing visual representation vectors for each image.
