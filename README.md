@@ -44,7 +44,7 @@ python regression.py
 ### Additional Resources
 
 **PP2.0 Dataset**  
-[Place Pulse 2.0](https://pan.baidu.com/s/1fYoVE6YKcbDJiVqoxx5K9g#list/path=%2F)
+[Place Pulse 2.0](https://pan.baidu.com/s/100SfzzI3AD1y8Kyvmt3s_w?pwd=tfiy)
 
 **Model Weights**  
 - [DeepLabV3+ Pre-trained Weights](https://share.weiyun.com/qqx78Pv5)
